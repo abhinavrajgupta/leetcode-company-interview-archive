@@ -1,0 +1,11 @@
+Problem Number,Problem Title,Difficulty,Frequency,Link,Company,Timeframe
+1,"Two Sum",Easy,100.0,https://leetcode.com/problems/two-sum/,Amazon,3_months
+42,"Trapping Rain Water",Hard,84.0,https://leetcode.com/problems/trapping-rain-water/,Amazon,3_months
+121,"Best Time to Buy and Sell Stock",Easy,83.0,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Amazon,3_months
+2,"Add Two Numbers",Medium,76.6,https://leetcode.com/problems/add-two-numbers/,Amazon,3_months
+15,"3Sum",Medium,76.6,https://leetcode.com/problems/3sum/,Amazon,3_months
+3,"Longest Substring Without Repeating Characters",Medium,75.8,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Amazon,3_months
+146,"LRU Cache",Medium,74.2,https://leetcode.com/problems/lru-cache/,Amazon,3_months
+200,"Number of Islands",Medium,73.4,https://leetcode.com/problems/number-of-islands/,Amazon,3_months
+207,"Course Schedule",Medium,73.4,https://leetcode.com/problems/course-schedule/,Amazon,3_months
+33,"Search in Rotated Sorted Array",Medium,72.5,https://leetcode.com/problems/search-in-rotated-sorted-array/,Amazon,3_months
