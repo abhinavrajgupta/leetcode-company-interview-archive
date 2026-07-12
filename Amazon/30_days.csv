@@ -1,0 +1,154 @@
+Problem Number,Problem Title,Difficulty,Frequency,Link,Company,Timeframe
+1,Two Sum,EASY,100.0,https://leetcode.com/problems/two-sum/,Amazon,30_days
+121,Best Time to Buy and Sell Stock,EASY,79.0,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Amazon,30_days
+3715,Maximum Coins From K Consecutive Bags,MEDIUM,79.0,https://leetcode.com/problems/maximum-coins-from-k-consecutive-bags/,Amazon,30_days
+42,Trapping Rain Water,HARD,73.6,https://leetcode.com/problems/trapping-rain-water/,Amazon,30_days
+3,Longest Substring Without Repeating Characters,MEDIUM,71.5,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Amazon,30_days
+146,LRU Cache,MEDIUM,71.5,https://leetcode.com/problems/lru-cache/,Amazon,30_days
+940,Fruit Into Baskets,MEDIUM,71.5,https://leetcode.com/problems/fruit-into-baskets/,Amazon,30_days
+2,Add Two Numbers,MEDIUM,69.2,https://leetcode.com/problems/add-two-numbers/,Amazon,30_days
+49,Group Anagrams,MEDIUM,69.2,https://leetcode.com/problems/group-anagrams/,Amazon,30_days
+33,Search in Rotated Sorted Array,MEDIUM,69.2,https://leetcode.com/problems/search-in-rotated-sorted-array/,Amazon,30_days
+2368,Sum of Total Strength of Wizards,HARD,66.6,https://leetcode.com/problems/sum-of-total-strength-of-wizards/,Amazon,30_days
+200,Number of Islands,MEDIUM,63.6,https://leetcode.com/problems/number-of-islands/,Amazon,30_days
+907,Koko Eating Bananas,MEDIUM,63.6,https://leetcode.com/problems/koko-eating-bananas/,Amazon,30_days
+56,Merge Intervals,MEDIUM,63.6,https://leetcode.com/problems/merge-intervals/,Amazon,30_days
+75,Sort Colors,MEDIUM,63.6,https://leetcode.com/problems/sort-colors/,Amazon,30_days
+15,3Sum,MEDIUM,60.2,https://leetcode.com/problems/3sum/,Amazon,30_days
+5,Longest Palindromic Substring,MEDIUM,60.2,https://leetcode.com/problems/longest-palindromic-substring/,Amazon,30_days
+560,Subarray Sum Equals K,MEDIUM,60.2,https://leetcode.com/problems/subarray-sum-equals-k/,Amazon,30_days
+778,Reorganize String,MEDIUM,56.2,https://leetcode.com/problems/reorganize-string/,Amazon,30_days
+128,Longest Consecutive Sequence,MEDIUM,56.2,https://leetcode.com/problems/longest-consecutive-sequence/,Amazon,30_days
+23,Merge k Sorted Lists,HARD,56.2,https://leetcode.com/problems/merge-k-sorted-lists/,Amazon,30_days
+917,Boats to Save People,MEDIUM,56.2,https://leetcode.com/problems/boats-to-save-people/,Amazon,30_days
+347,Top K Frequent Elements,MEDIUM,56.2,https://leetcode.com/problems/top-k-frequent-elements/,Amazon,30_days
+1222,Remove Covered Intervals,MEDIUM,56.2,https://leetcode.com/problems/remove-covered-intervals/,Amazon,30_days
+138,Copy List with Random Pointer,MEDIUM,51.2,https://leetcode.com/problems/copy-list-with-random-pointer/,Amazon,30_days
+169,Majority Element,EASY,51.2,https://leetcode.com/problems/majority-element/,Amazon,30_days
+76,Minimum Window Substring,HARD,51.2,https://leetcode.com/problems/minimum-window-substring/,Amazon,30_days
+46,Permutations,MEDIUM,51.2,https://leetcode.com/problems/permutations/,Amazon,30_days
+21,Merge Two Sorted Lists,EASY,51.2,https://leetcode.com/problems/merge-two-sorted-lists/,Amazon,30_days
+16,3Sum Closest,MEDIUM,51.2,https://leetcode.com/problems/3sum-closest/,Amazon,30_days
+78,Subsets,MEDIUM,51.2,https://leetcode.com/problems/subsets/,Amazon,30_days
+1446,Angle Between Hands of a Clock,MEDIUM,51.2,https://leetcode.com/problems/angle-between-hands-of-a-clock/,Amazon,30_days
+1961,Maximum Ice Cream Bars,MEDIUM,51.2,https://leetcode.com/problems/maximum-ice-cream-bars/,Amazon,30_days
+118,Pascal's Triangle,EASY,51.2,https://leetcode.com/problems/pascals-triangle/,Amazon,30_days
+34,Find First and Last Position of Element in Sorted Array,MEDIUM,51.2,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Amazon,30_days
+3962,Number of ZigZag Arrays I,HARD,51.2,https://leetcode.com/problems/number-of-zigzag-arrays-i/,Amazon,30_days
+7,Reverse Integer,MEDIUM,51.2,https://leetcode.com/problems/reverse-integer/,Amazon,30_days
+239,Sliding Window Maximum,HARD,51.2,https://leetcode.com/problems/sliding-window-maximum/,Amazon,30_days
+11,Container With Most Water,MEDIUM,44.9,https://leetcode.com/problems/container-with-most-water/,Amazon,30_days
+207,Course Schedule,MEDIUM,44.9,https://leetcode.com/problems/course-schedule/,Amazon,30_days
+4,Median of Two Sorted Arrays,HARD,44.9,https://leetcode.com/problems/median-of-two-sorted-arrays/,Amazon,30_days
+9,Palindrome Number,EASY,44.9,https://leetcode.com/problems/palindrome-number/,Amazon,30_days
+236,Lowest Common Ancestor of a Binary Tree,MEDIUM,44.9,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Amazon,30_days
+26,Remove Duplicates from Sorted Array,EASY,44.9,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Amazon,30_days
+84,Largest Rectangle in Histogram,HARD,44.9,https://leetcode.com/problems/largest-rectangle-in-histogram/,Amazon,30_days
+54,Spiral Matrix,MEDIUM,44.9,https://leetcode.com/problems/spiral-matrix/,Amazon,30_days
+127,Word Ladder,HARD,44.9,https://leetcode.com/problems/word-ladder/,Amazon,30_days
+41,First Missing Positive,HARD,44.9,https://leetcode.com/problems/first-missing-positive/,Amazon,30_days
+53,Maximum Subarray,MEDIUM,44.9,https://leetcode.com/problems/maximum-subarray/,Amazon,30_days
+485,Max Consecutive Ones,EASY,44.9,https://leetcode.com/problems/max-consecutive-ones/,Amazon,30_days
+48,Rotate Image,MEDIUM,44.9,https://leetcode.com/problems/rotate-image/,Amazon,30_days
+240,Search a 2D Matrix II,MEDIUM,44.9,https://leetcode.com/problems/search-a-2d-matrix-ii/,Amazon,30_days
+110,Balanced Binary Tree,EASY,44.9,https://leetcode.com/problems/balanced-binary-tree/,Amazon,30_days
+1019,Squares of a Sorted Array,EASY,44.9,https://leetcode.com/problems/squares-of-a-sorted-array/,Amazon,30_days
+72,Edit Distance,MEDIUM,44.9,https://leetcode.com/problems/edit-distance/,Amazon,30_days
+322,Coin Change,MEDIUM,44.9,https://leetcode.com/problems/coin-change/,Amazon,30_days
+394,Decode String,MEDIUM,44.9,https://leetcode.com/problems/decode-string/,Amazon,30_days
+51,N-Queens,HARD,44.9,https://leetcode.com/problems/n-queens/,Amazon,30_days
+212,Word Search II,HARD,44.9,https://leetcode.com/problems/word-search-ii/,Amazon,30_days
+739,Daily Temperatures,MEDIUM,44.9,https://leetcode.com/problems/daily-temperatures/,Amazon,30_days
+1894,Merge Strings Alternately,EASY,44.9,https://leetcode.com/problems/merge-strings-alternately/,Amazon,30_days
+92,Reverse Linked List II,MEDIUM,44.9,https://leetcode.com/problems/reverse-linked-list-ii/,Amazon,30_days
+238,Product of Array Except Self,MEDIUM,44.9,https://leetcode.com/problems/product-of-array-except-self/,Amazon,30_days
+19,Remove Nth Node From End of List,MEDIUM,44.9,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Amazon,30_days
+8,String to Integer (atoi),MEDIUM,44.9,https://leetcode.com/problems/string-to-integer-atoi/,Amazon,30_days
+943,Sum of Subarray Minimums,MEDIUM,44.9,https://leetcode.com/problems/sum-of-subarray-minimums/,Amazon,30_days
+1297,Maximum Number of Balloons,EASY,44.9,https://leetcode.com/problems/maximum-number-of-balloons/,Amazon,30_days
+175,Combine Two Tables,EASY,44.9,https://leetcode.com/problems/combine-two-tables/,Amazon,30_days
+443,String Compression,MEDIUM,44.9,https://leetcode.com/problems/string-compression/,Amazon,30_days
+20,Valid Parentheses,EASY,44.9,https://leetcode.com/problems/valid-parentheses/,Amazon,30_days
+199,Binary Tree Right Side View,MEDIUM,44.9,https://leetcode.com/problems/binary-tree-right-side-view/,Amazon,30_days
+410,Split Array Largest Sum,HARD,44.9,https://leetcode.com/problems/split-array-largest-sum/,Amazon,30_days
+17,Letter Combinations of a Phone Number,MEDIUM,44.9,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Amazon,30_days
+74,Search a 2D Matrix,MEDIUM,44.9,https://leetcode.com/problems/search-a-2d-matrix/,Amazon,30_days
+55,Jump Game,MEDIUM,44.9,https://leetcode.com/problems/jump-game/,Amazon,30_days
+1056,Capacity To Ship Packages Within D Days,MEDIUM,44.9,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/,Amazon,30_days
+392,Is Subsequence,EASY,44.9,https://leetcode.com/problems/is-subsequence/,Amazon,30_days
+3919,Network Recovery Pathways,HARD,44.9,https://leetcode.com/problems/network-recovery-pathways/,Amazon,30_days
+217,Contains Duplicate,EASY,44.9,https://leetcode.com/problems/contains-duplicate/,Amazon,30_days
+258,Add Digits,EASY,44.9,https://leetcode.com/problems/add-digits/,Amazon,30_days
+206,Reverse Linked List,EASY,44.9,https://leetcode.com/problems/reverse-linked-list/,Amazon,30_days
+14,Longest Common Prefix,EASY,36.2,https://leetcode.com/problems/longest-common-prefix/,Amazon,30_days
+344,Reverse String,EASY,36.2,https://leetcode.com/problems/reverse-string/,Amazon,30_days
+94,Binary Tree Inorder Traversal,EASY,36.2,https://leetcode.com/problems/binary-tree-inorder-traversal/,Amazon,30_days
+1078,Remove Outermost Parentheses,EASY,36.2,https://leetcode.com/problems/remove-outermost-parentheses/,Amazon,30_days
+229,Majority Element II,MEDIUM,36.2,https://leetcode.com/problems/majority-element-ii/,Amazon,30_days
+25,Reverse Nodes in k-Group,HARD,36.2,https://leetcode.com/problems/reverse-nodes-in-k-group/,Amazon,30_days
+43,Multiply Strings,MEDIUM,36.2,https://leetcode.com/problems/multiply-strings/,Amazon,30_days
+3931,Process String with Special Operations I,MEDIUM,36.2,https://leetcode.com/problems/process-string-with-special-operations-i/,Amazon,30_days
+912,Random Pick with Weight,MEDIUM,36.2,https://leetcode.com/problems/random-pick-with-weight/,Amazon,30_days
+189,Rotate Array,MEDIUM,36.2,https://leetcode.com/problems/rotate-array/,Amazon,30_days
+109,Convert Sorted List to Binary Search Tree,MEDIUM,36.2,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/,Amazon,30_days
+103,Binary Tree Zigzag Level Order Traversal,MEDIUM,36.2,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/,Amazon,30_days
+1675,Magnetic Force Between Two Balls,MEDIUM,36.2,https://leetcode.com/problems/magnetic-force-between-two-balls/,Amazon,30_days
+1571,Allocate Mailboxes,HARD,36.2,https://leetcode.com/problems/allocate-mailboxes/,Amazon,30_days
+100,Same Tree,EASY,36.2,https://leetcode.com/problems/same-tree/,Amazon,30_days
+37,Sudoku Solver,HARD,36.2,https://leetcode.com/problems/sudoku-solver/,Amazon,30_days
+4074,Count Subarrays With Majority Element I,MEDIUM,36.2,https://leetcode.com/problems/count-subarrays-with-majority-element-i/,Amazon,30_days
+1451,Minimum Number of Taps to Open to Water a Garden,HARD,36.2,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/,Amazon,30_days
+303,Range Sum Query - Immutable,EASY,36.2,https://leetcode.com/problems/range-sum-query-immutable/,Amazon,30_days
+32,Longest Valid Parentheses,HARD,36.2,https://leetcode.com/problems/longest-valid-parentheses/,Amazon,30_days
+1724,Customer Who Visited but Did Not Make Any Transactions,EASY,36.2,https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/,Amazon,30_days
+2868,Continuous Subarrays,MEDIUM,36.2,https://leetcode.com/problems/continuous-subarrays/,Amazon,30_days
+35,Search Insert Position,EASY,36.2,https://leetcode.com/problems/search-insert-position/,Amazon,30_days
+1956,Maximum Element After Decreasing and Rearranging,MEDIUM,36.2,https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/,Amazon,30_days
+567,Permutation in String,MEDIUM,36.2,https://leetcode.com/problems/permutation-in-string/,Amazon,30_days
+2099,Number of Strings That Appear as Substrings in Word,EASY,36.2,https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/,Amazon,30_days
+30,Substring with Concatenation of All Words,HARD,36.2,https://leetcode.com/problems/substring-with-concatenation-of-all-words/,Amazon,30_days
+1475,Maximum Sum BST in Binary Tree,HARD,36.2,https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/,Amazon,30_days
+1805,Minimum Adjacent Swaps for K Consecutive Ones,HARD,36.2,https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/,Amazon,30_days
+1184,Car Pooling,MEDIUM,36.2,https://leetcode.com/problems/car-pooling/,Amazon,30_days
+268,Missing Number,EASY,36.2,https://leetcode.com/problems/missing-number/,Amazon,30_days
+557,Reverse Words in a String III,EASY,36.2,https://leetcode.com/problems/reverse-words-in-a-string-iii/,Amazon,30_days
+1878,Check if Array Is Sorted and Rotated,EASY,36.2,https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/,Amazon,30_days
+416,Partition Equal Subset Sum,MEDIUM,36.2,https://leetcode.com/problems/partition-equal-subset-sum/,Amazon,30_days
+176,Second Highest Salary,MEDIUM,36.2,https://leetcode.com/problems/second-highest-salary/,Amazon,30_days
+570,Managers with at Least 5 Direct Reports,MEDIUM,36.2,https://leetcode.com/problems/managers-with-at-least-5-direct-reports/,Amazon,30_days
+283,Move Zeroes,EASY,36.2,https://leetcode.com/problems/move-zeroes/,Amazon,30_days
+67,Add Binary,EASY,36.2,https://leetcode.com/problems/add-binary/,Amazon,30_days
+1605,Minimum Number of Days to Make m Bouquets,MEDIUM,36.2,https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/,Amazon,30_days
+1287,Distance Between Bus Stops,EASY,36.2,https://leetcode.com/problems/distance-between-bus-stops/,Amazon,30_days
+1044,Find Common Characters,EASY,36.2,https://leetcode.com/problems/find-common-characters/,Amazon,30_days
+57,Insert Interval,MEDIUM,36.2,https://leetcode.com/problems/insert-interval/,Amazon,30_days
+219,Contains Duplicate II,EASY,36.2,https://leetcode.com/problems/contains-duplicate-ii/,Amazon,30_days
+1338,Queries Quality and Percentage,EASY,36.2,https://leetcode.com/problems/queries-quality-and-percentage/,Amazon,30_days
+2359,Maximum White Tiles Covered by a Carpet,MEDIUM,36.2,https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/,Amazon,30_days
+621,Task Scheduler,MEDIUM,36.2,https://leetcode.com/problems/task-scheduler/,Amazon,30_days
+50,Pow(x, n),MEDIUM,36.2,https://leetcode.com/problems/powx-n/,Amazon,30_days
+182,Duplicate Emails,EASY,36.2,https://leetcode.com/problems/duplicate-emails/,Amazon,30_days
+228,Summary Ranges,EASY,36.2,https://leetcode.com/problems/summary-ranges/,Amazon,30_days
+70,Climbing Stairs,EASY,36.2,https://leetcode.com/problems/climbing-stairs/,Amazon,30_days
+6,Zigzag Conversion,MEDIUM,36.2,https://leetcode.com/problems/zigzag-conversion/,Amazon,30_days
+4136,Concatenate Non-Zero Digits and Multiply by Sum II,MEDIUM,36.2,https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/,Amazon,30_days
+4135,Concatenate Non-Zero Digits and Multiply by Sum I,EASY,36.2,https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/,Amazon,30_days
+761,Employee Free Time,HARD,36.2,https://leetcode.com/problems/employee-free-time/,Amazon,30_days
+198,House Robber,MEDIUM,36.2,https://leetcode.com/problems/house-robber/,Amazon,30_days
+210,Course Schedule II,MEDIUM,36.2,https://leetcode.com/problems/course-schedule-ii/,Amazon,30_days
+150,Evaluate Reverse Polish Notation,MEDIUM,36.2,https://leetcode.com/problems/evaluate-reverse-polish-notation/,Amazon,30_days
+152,Maximum Product Subarray,MEDIUM,36.2,https://leetcode.com/problems/maximum-product-subarray/,Amazon,30_days
+3195,Separate Black and White Balls,MEDIUM,36.2,https://leetcode.com/problems/separate-black-and-white-balls/,Amazon,30_days
+456,132 Pattern,MEDIUM,36.2,https://leetcode.com/problems/132-pattern/,Amazon,30_days
+2737,Row With Maximum Ones,EASY,36.2,https://leetcode.com/problems/row-with-maximum-ones/,Amazon,30_days
+1036,Rotting Oranges,MEDIUM,36.2,https://leetcode.com/problems/rotting-oranges/,Amazon,30_days
+141,Linked List Cycle,EASY,36.2,https://leetcode.com/problems/linked-list-cycle/,Amazon,30_days
+98,Validate Binary Search Tree,MEDIUM,36.2,https://leetcode.com/problems/validate-binary-search-tree/,Amazon,30_days
+1603,Running Sum of 1d Array,EASY,36.2,https://leetcode.com/problems/running-sum-of-1d-array/,Amazon,30_days
+518,Coin Change II,MEDIUM,36.2,https://leetcode.com/problems/coin-change-ii/,Amazon,30_days
+79,Word Search,MEDIUM,36.2,https://leetcode.com/problems/word-search/,Amazon,30_days
+18,4Sum,MEDIUM,36.2,https://leetcode.com/problems/4sum/,Amazon,30_days
+148,Sort List,MEDIUM,36.2,https://leetcode.com/problems/sort-list/,Amazon,30_days
+88,Merge Sorted Array,EASY,36.2,https://leetcode.com/problems/merge-sorted-array/,Amazon,30_days
+61,Rotate List,MEDIUM,36.2,https://leetcode.com/problems/rotate-list/,Amazon,30_days
+319,Bulb Switcher,MEDIUM,36.2,https://leetcode.com/problems/bulb-switcher/,Amazon,30_days
